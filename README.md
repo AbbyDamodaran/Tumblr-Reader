@@ -16,17 +16,16 @@ The following **required** functionality is completed:
 - [x] Made personal finishing touches to the UI: changed textview font size & color to dark grey, added large title to app feed (navigation bar title), added code to unselect row when returning from the detail view, changed imga eview content mode from 'aspect fit' to 'aspect fill', changed look of the main table view with a gradient opacity image
 
 ## Video Walkthrough
-
-[Demo]](https://i.imgur.com/vULe45o.gif)
+![Simulator Screen Recording - iPhone 15 Pro](https://github.com/AbbyDamodaran/Tumblr-2/assets/78409617/d6d61e82-ac4c-4a15-8f68-e84836ff7baa)
 
 ## Notes
 
 An easy but satisfying project!
 
 Here are some code references I used for UI styling:
-Gradient alpha in image view: https://stackoverflow.com/questions/24026981/transparency-gradient-on-uiimageview
-Black text with hite outline in UILabel: https://stackoverflow.com/questions/1103148/how-do-i-make-uilabel-display-outlined-text
-Displaying text on top of an image: https://stackoverflow.com/questions/34972930/make-uilabel-appear-on-top-of-uiimageview-in-storyboard
+- Gradient alpha in image view: https://stackoverflow.com/questions/24026981/transparency-gradient-on-uiimageview
+- Black text with hite outline in UILabel: https://stackoverflow.com/questions/1103148/how-do-i-make-uilabel-display-outlined-text
+- Displaying text on top of an image: https://stackoverflow.com/questions/34972930/make-uilabel-appear-on-top-of-uiimageview-in-storyboard
 
 
 ## License
