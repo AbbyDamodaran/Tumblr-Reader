@@ -1,12 +1,8 @@
-# Project 6 - *Tumblr Blog*
-
-Submitted by: **Abinaya Damodaran**
+# *Tumblr Blog*
 
 **Tumblr Blog** is an app that displays the latest posts from your favorite Tumblr blog.
 
-Time spent: **3** hours spent in total
-
-## Required Features
+## Features
 
 The following **required** functionality is completed:
 
