@@ -1,6 +1,6 @@
-# *Tumblr Blog*
+# *Tumblr Reader*
 
-**Tumblr Blog** is an app that displays the latest posts from your favorite Tumblr blog.
+**Tumblr Reader** is an app that displays the latest posts from your favorite Tumblr blog.
 
 ## Features
 
